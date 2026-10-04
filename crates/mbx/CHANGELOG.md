@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.23.0](https://github.com/jdx/mr-boxington/compare/v1.22.0...v1.23.0) - 2026-10-04
+
+### Added
+
+- *(target)* seed check lanes and editor checks from other checkouts ([#644](https://github.com/jdx/mr-boxington/pull/644))
+
 ## [1.22.0](https://github.com/jdx/mr-boxington/compare/v1.21.1...v1.22.0) - 2026-10-03
 
 ### Added
